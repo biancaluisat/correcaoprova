@@ -9,3 +9,5 @@ while (i < valor.length){
     i++;
 }
 console.log(maior);
+
+//1 ponto 
