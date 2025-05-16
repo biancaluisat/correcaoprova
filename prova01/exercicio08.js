@@ -20,5 +20,5 @@ console.log(`Pode brincar na montanha russa? ${(podeMontanhaRussa ? 'Sim' : 'Nã
 console.log(`Pode brincar na roda gigante? ${(podeRodaGigante ? 'Sim' : 'Não')}`)
 console.log(`Pode brincar no bate bate? ${(podeBateBate ? 'Sim' : 'Não')}`)
 
-//1 ponto
+//1 ponto.
 

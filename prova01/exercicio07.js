@@ -23,4 +23,4 @@ switch(pedido){
 console.log(nomeCombo);
 console.log(preco);
 
-//1 ponto
+//1 ponto.
