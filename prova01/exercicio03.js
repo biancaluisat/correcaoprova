@@ -13,3 +13,5 @@ switch(opcao){
     default:
         console.log('Opção inválida.')
 }
+
+// 1 ponto.
